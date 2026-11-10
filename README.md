@@ -1,94 +1,45 @@
+ <div align="center">
 
-<div align="center">
+# Ratish Shakya
 
-  <img src="./id.png" width="170" alt="Ratish Shakya" />
-
-  # Hey, I'm Ratish Shakya 👋
-
-  ### Backend Developer | Project Manager | Software Product Builder
-
-  **Building scalable digital products and turning ideas into practical solutions.**
-
-  📍 Lalitpur, Nepal · 💼 Baliyo Technologies
-
-  <br/>
-
-  <a href="https://github.com/Ratish149">
-    <img src="https://img.shields.io/badge/GitHub-Ratish149-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ratish-shakya/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
+### Backend Developer · Project Manager · Software Product Builder
 
 </div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a Backend Developer and Project Manager at **Baliyo Technologies**, passionate about building reliable software systems and developing digital products that solve real-world business problems.
-
-I enjoy working across the software development lifecycle, from backend architecture and API development to project planning, coordination, and product delivery.
-
-- 💻 Backend development with Python and Django.
-- 🏗️ Building scalable web applications and SaaS platforms.
-- 📋 Managing software projects and development workflows.
-- 🧩 Solving technical and business challenges.
-- 🚀 Exploring new technologies and improving development practices.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### Backend Development
-
-<img src="https://skillicons.dev/icons?i=python,django,graphql" height="50" alt="Backend technologies"/>
-
-### Database & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=postgres,digitalocean" height="50" alt="Database and infrastructure"/>
-
-</div>
-
----
-
-## 💼 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="40%" align="center" valign="middle">
 
-### 🌐 Nepdora
-
-An e-commerce website building platform designed to help businesses establish and manage their online stores.
-
-**Focus Areas**
-- E-commerce platforms
-- Website building
-- Backend development
-- Digital business solutions
-
-<a href="https://nepdora.com/">
-  <img src="https://img.shields.io/badge/Visit_Nepdora-247BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Nepdora"/>
-</a>
+<img src="./right_pointing.png" width="100%" alt="Ratish Shakya pointing towards profile details"/>
 
 </td>
-<td width="50%" valign="top">
+<td width="60%" valign="middle">
 
-### 📊 Himalayan CRM
+# Hey, I'm Ratish 👋
 
-An online CRM platform for consultancy businesses to manage their operations and customer relationships.
+### Backend Developer & Project Manager
 
-**Focus Areas**
-- Customer relationship management
-- Business management
-- Workflow solutions
-- Backend development
+**At Baliyo Technologies**
 
-<a href="https://himalayancrm.com/">
-  <img src="https://img.shields.io/badge/Visit_Himalayan_CRM-247BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Himalayan CRM"/>
+📍 Lalitpur, Nepal
+
+I build reliable backend systems and practical digital products that help businesses streamline operations and grow.
+
+- 💻 Backend Engineering
+- 🏗️ Software & SaaS Product Development
+- 📋 Software Project Management
+- 🧠 Problem Solving
+
+**Currently working with:** Python · Django · PostgreSQL
+
+<br/>
+
+<a href="https://github.com/Ratish149">
+<img src="https://img.shields.io/badge/GitHub-Ratish149-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ratish-shakya/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
 </td>
@@ -97,24 +48,86 @@ An online CRM platform for consultancy businesses to manage their operations and
 
 ---
 
-## 📊 GitHub Contributions
+## 👨‍💻 About Me
+
+I'm a Backend Developer and Project Manager passionate about building software that solves real-world business challenges.
+
+I enjoy working across the complete software development lifecycle, from designing backend architecture and developing APIs to planning projects, coordinating development, and delivering digital products.
+
+- 🔭 Building practical digital platforms and business solutions.
+- 🌱 Exploring new technologies and improving software architecture.
+- 💡 Interested in scalable systems, automation, and SaaS products.
+- 🎯 Focused on maintainable code and effective project delivery.
+
+---
+
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ratish149&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="GitHub statistics"/>
+### Backend Development
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratish149&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages"/>
+<img src="https://skillicons.dev/icons?i=python,django,graphql" height="55" alt="Python Django GraphQL"/>
+
+### Database & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,digitalocean" height="55" alt="PostgreSQL DigitalOcean"/>
 
 </div>
 
-### 🟦 Contribution Activity
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🌐 Nepdora</h3>
+
+An e-commerce website building platform designed to help businesses establish and manage their online stores.
+
+**Highlights**
+- E-commerce solutions
+- Website building platform
+- Digital business tools
+- Backend development
+
+<a href="https://nepdora.com/">
+<img src="https://img.shields.io/badge/Explore_Nepdora-247BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Nepdora"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>📊 Himalayan CRM</h3>
+
+An online CRM platform for consultancy businesses to manage operations and customer relationships.
+
+**Highlights**
+- Customer relationship management
+- Consultancy management
+- Business workflows
+- Digital solutions
+
+<a href="https://himalayancrm.com/">
+<img src="https://img.shields.io/badge/Explore_Himalayan_CRM-247BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Himalayan CRM"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Contributions
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ratish149/Ratish149/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ratish149/Ratish149/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/Ratish149/Ratish149/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man contribution graph"/>
+  <img src="https://raw.githubusercontent.com/Ratish149/Ratish149/output/pacman-contribution-graph.svg" width="100%" alt="Ratish's Pac-Man GitHub contribution graph"/>
 </picture>
 
 </div>
@@ -124,35 +137,35 @@ An online CRM platform for consultancy businesses to manage their operations and
 ## 🎯 Beyond Coding
 
 - 🎵 Listening to Music
-- 🧠 Problem Solving
+- 🧩 Problem Solving
 - 🔍 Exploring New Technologies
-- 📋 Software Project Management
+- 📋 Project Planning & Management
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, collaborating on interesting projects, sharing ideas, and exploring opportunities to build something meaningful.
+I'm always interested in connecting with developers, sharing ideas, collaborating on interesting projects, and exploring opportunities to build something meaningful.
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ratish-shakya/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://www.instagram.com/_ratish_347__/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://www.facebook.com/ratish.shakya149/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 <a href="https://github.com/Ratish149">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-**Thanks for visiting my profile!**
+### Thanks for visiting my profile! 🚀
 
-⭐ If you find my work interesting, feel free to explore my repositories.
+⭐ Feel free to explore my repositories.
 
 </div>
