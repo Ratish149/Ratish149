@@ -71,8 +71,12 @@ I enjoy working across the complete software development lifecycle, from designi
 
 ### Database & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=postgres,digitalocean" height="55" alt="PostgreSQL DigitalOcean"/>
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+       height="55" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg"
+       height="55" alt="DigitalOcean" />
+</p>
 </div>
 
 ---
