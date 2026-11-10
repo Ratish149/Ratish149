@@ -88,7 +88,7 @@ I enjoy working across the complete software development lifecycle, from designi
 <tr>
 <td width="50%" valign="top" align="center">
 
-<img src="./.nepdora.png" width="180" alt="Nepdora Logo"/>
+<img src="./nepdora.png" width="180" alt="Nepdora Logo"/>
 
 <h3>Nepdora</h3>
 
