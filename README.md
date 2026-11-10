@@ -82,15 +82,14 @@ I enjoy working across the complete software development lifecycle, from designi
 ---
 
 
+
 ## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<img src="./nepdora.png" width="180" alt="Nepdora Logo"/>
-
-<h3>Nepdora</h3>
+### 🌐 Nepdora
 
 An e-commerce website building platform designed to help businesses establish and manage their online stores.
 
@@ -100,16 +99,12 @@ An e-commerce website building platform designed to help businesses establish an
 - Digital business tools
 - Backend development
 
-<a href="https://nepdora.com/">
-<img src="https://img.shields.io/badge/Explore_Nepdora-247BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Nepdora"/>
-</a>
+[![Explore Nepdora](https://img.shields.io/badge/Explore_Nepdora-247BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nepdora.com/)
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<img src="./himalayancrm.png" width="180" alt="Himalayan CRM Logo"/>
-
-<h3>Himalayan CRM</h3>
+### 📊 Himalayan CRM
 
 An online CRM platform for consultancy businesses to manage operations and customer relationships.
 
@@ -119,13 +114,12 @@ An online CRM platform for consultancy businesses to manage operations and custo
 - Business workflows
 - Digital solutions
 
-<a href="https://himalayancrm.com/">
-<img src="https://img.shields.io/badge/Explore_Himalayan_CRM-247BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Himalayan CRM"/>
-</a>
+[![Explore Himalayan CRM](https://img.shields.io/badge/Explore_Himalayan_CRM-247BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://himalayancrm.com/)
 
 </td>
 </tr>
 </table>
+
 
 
 ---
