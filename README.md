@@ -81,13 +81,16 @@ I enjoy working across the complete software development lifecycle, from designi
 
 ---
 
+
 ## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<h3>🌐 Nepdora</h3>
+<img src="./.nepdora.png" width="180" alt="Nepdora Logo"/>
+
+<h3>Nepdora</h3>
 
 An e-commerce website building platform designed to help businesses establish and manage their online stores.
 
@@ -102,9 +105,11 @@ An e-commerce website building platform designed to help businesses establish an
 </a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<h3>📊 Himalayan CRM</h3>
+<img src="./himalayancrm.png" width="180" alt="Himalayan CRM Logo"/>
+
+<h3>Himalayan CRM</h3>
 
 An online CRM platform for consultancy businesses to manage operations and customer relationships.
 
@@ -121,6 +126,7 @@ An online CRM platform for consultancy businesses to manage operations and custo
 </td>
 </tr>
 </table>
+
 
 ---
 
